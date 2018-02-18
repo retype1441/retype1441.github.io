@@ -1,0 +1,57 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aaa2.html" resolutions="1x" timestamp="1518962773443">
+  <folder name="css">
+    <file name="site_global.css" crc="205954113"/>
+    <file name="index.css" crc="4044127343" ref="index"/>
+    <file name="iefonts_index.css" crc="364582477" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="engineer-awards-2.png" crc="372599798" seo="true" mt="1518955768000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="form_check.php" crc="4286608207" ref="index"/>
+    <file name="form_throttle.php" crc="313199896" ref="index"/>
+    <file name="form_process.php" crc="3855659497" ref="index"/>
+    <file name="form-u3271.php" crc="180817415" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="nature_hd_beach_apocalypse_alteration_water_rocks_sky_19527_1920x1200.jpg" crc="529128698" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="summer-tumblr-android-wallpaper.jpg" crc="3936542735" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="list.png" crc="515148813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bulb.png" crc="4274247719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="megaphone.png" crc="163364130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sand-clock.png" crc="4055691872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new.png" crc="509497846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boats-beach-hd-wallpaper.jpg" crc="372813952" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-вконтакте-100.png" crc="4094489170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mail.png" crc="3872919347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4236095466" seo="true" mt="1518962731054" redirect="true"/>
+</manifest>

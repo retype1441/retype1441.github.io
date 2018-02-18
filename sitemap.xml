@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://aaa2.html/index.html</loc>
+    <lastmod>2018-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aaa2.html/images/list.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaa2.html/images/bulb.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaa2.html/images/megaphone.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaa2.html/images/sand-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaa2.html/images/new.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaa2.html/images/icons8-%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-100.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaa2.html/images/mail.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aaa2.html/assets/engineer-awards-2.png</loc>
+    <lastmod>2018-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
